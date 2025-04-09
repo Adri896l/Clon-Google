@@ -23,9 +23,7 @@ El clon busca replicar lo más posible el aspecto y la funcionalidad de la pági
 
 Aquí tienes una vista previa de la interfaz:
 
-![Google Clone](![image](https://github.com/user-attachments/assets/2ca5893d-d90a-45b0-a7a9-cacdee769d40)
-)
-
+[image](https://github.com/user-attachments/assets/2ca5893d-d90a-45b0-a7a9-cacdee769d40)
 
 ##💡 Mejoras Futuras
 
